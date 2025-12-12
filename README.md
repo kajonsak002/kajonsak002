@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Kajonsak&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Kajonsak&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A!+%F0%9F%91%8B;Coding+With+AI+Enjoy+%F0%9F%A4%96%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A!+%F0%9F%91%8B;Passionate+Full-stack+Developer+%F0%9F%92%BB%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
   
   <br/>
   
@@ -33,13 +33,13 @@ const kajonsak = {
   
   role: "Full-stack Developer",
   
-  currentlyLearning: ["AI/ML", "Cloud Computing"],
+  currentlyLearning: ["Cloud Computing", "DevOps"],
   
   hobbies: ["Coding", "Learning New Tech", "Gaming"],
   
   funFact: "I code better with music 🎵",
   
-  lifePhilosophy: "Coding With AI Enjoy! 🤖✨"
+  lifePhilosophy: "Keep coding, keep growing! 💪✨"
 };
 ```
 
@@ -53,87 +53,33 @@ const kajonsak = {
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&theme=dark" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="48"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" height="48"/>
 </p>
 
-### 🗄️ Database & Cloud
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Navicat-2E8B57?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA&logoColor=white" height="48"/>
 </p>
 
-### 🛠️ Tools & Others
+### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" />
 </p>
 
-### 🤖 AI & Machine Learning
+### 🤖 AI Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="50"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="48"/>
 </p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Stats**
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kajonsak002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kajonsak002&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" />
-  
-  <br/><br/>
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajonsak002&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&langs_count=8" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=kajonsak002&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 **Activity Graph**
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajonsak002&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area_color=4ECDC4&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📌 **Featured Projects**
-
-<div align="center">
-  
-  <a href="https://github.com/kajonsak002/final_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajonsak002&repo=final_project&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" />
-  </a>
-  <a href="https://github.com/kajonsak002/project-website2-php">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajonsak002&repo=project-website2-php&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" />
-  </a>
-  
-  <a href="https://github.com/kajonsak002/yolov8-live">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajonsak002&repo=yolov8-live&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" />
-  </a>
-  <a href="https://github.com/kajonsak002/webchat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajonsak002&repo=webchat&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" />
-  </a>
 
 </div>
 
@@ -174,15 +120,7 @@ const kajonsak = {
 
 </div>
 
-<br/>
 
-<div align="center">
-  
-### 🎵 Spotify Playing
-
-[![Spotify](https://novatorem-git-master-kajonsak002.vercel.app/api/spotify)](https://open.spotify.com/user/kajonsak002)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
