@@ -98,63 +98,144 @@ me.say_hi()
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
-<!-- Frontend -->
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</details>
-
-<!-- Backend -->
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
-</details>
-
-<!-- Database -->
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-</details>
-
-<!-- Tools -->
-<details open>
-<summary><b>� Tools</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</details>
-
-<!-- AI Tools -->
-<details open>
-<summary><b>🤖 AI Tools</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</details>
+<table>
+<tr>
+<td align="center" width="96">
+<a href="#">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+</a>
+<br><b>React</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+</a>
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+</a>
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+</a>
+<br><b>Next.js</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+</a>
+<br><b>Tailwind</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+</a>
+<br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+</a>
+<br><b>CSS3</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+</a>
+<br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+</a>
+<br><b>Express</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+</a>
+<br><b>NestJS</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+</a>
+<br><b>PHP</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+</a>
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+</a>
+<br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=swagger" width="48" height="48" alt="Swagger" />
+</a>
+<br><b>Swagger</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+</a>
+<br><b>Git</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</a>
+<br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+</a>
+<br><b>Figma</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+</a>
+<br><b>Postman</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://img.icons8.com/color/48/chatgpt.png" width="48" height="48" alt="ChatGPT" />
+</a>
+<br><b>ChatGPT</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" />
+</a>
+<br><b>Gemini</b>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+</a>
+<br><b>VSCode</b>
+</td>
+</tr>
+</table>
 
 </div>
 
