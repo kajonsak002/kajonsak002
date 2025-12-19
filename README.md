@@ -273,29 +273,3 @@ me.say_hi()
 
 
 <br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-## 💭 Random Dev Quote
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
-<br/>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+⭐;Feel+free+to+connect+with+me+🤝;Happy+Coding!+🚀" alt="Footer" />
-
-</div>
